@@ -1,0 +1,5 @@
+export default {
+  MIN_EMAIL_LENGTH: 3,
+  MIN_PASSWORD_LENGTH: 8,
+  MAX_PASSWORD_LENGTH: 128,
+};
